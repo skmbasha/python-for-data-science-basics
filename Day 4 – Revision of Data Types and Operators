@@ -1,0 +1,40 @@
+Day 4 of my Python for Data Science learning journey. Today, I focused on revising key concepts from the previous days, specifically data types and operators in Python.
+
+Revision plays an important role in strengthening programming skills. By revisiting these topics, I improved my understanding of how Python stores different types of data and how operations can be performed on them efficiently.
+
+Topics Revised
+Python data types:
+Integer (int)
+Float (float)
+String (str)
+Boolean (bool)
+Python operators:
+Arithmetic operators
+Comparison operators
+Logical operators
+Assignment operators
+Practice Example
+# Data Types
+name = "Basha"
+age = 23
+marks = 85.5
+is_passed = True
+
+print(type(name))
+print(type(age))
+print(type(marks))
+print(type(is_passed))
+
+# Operators
+a = 10
+b = 4
+
+print("Addition:", a + b)
+print("Division:", a / b)
+print("Greater:", a > b)
+print("Logical:", a > 5 and b < 10)
+Key Takeaway
+
+Revising data types and operators helped me gain better clarity on how Python handles data and performs operations. These concepts are essential for writing efficient programs and are widely used in data analysis and problem-solving.
+
+This revision strengthens my foundation as I continue my journey toward learning advanced Python and Data Science concepts.
